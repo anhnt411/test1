@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\.net\\revert\\test1\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {}
+    "E:\\.net\\revert1\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "E:\\.net\\revert\\test1\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
+    "E:\\.net\\revert1\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\.net\\revert\\test1\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "E:\\.net\\revert1\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "E:\\.net\\revert\\test1\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectPath": "E:\\.net\\revert1\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "E:\\.net\\revert\\test1\\WebApplication1\\WebApplication1\\obj\\",
+        "outputPath": "E:\\.net\\revert1\\WebApplication1\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
