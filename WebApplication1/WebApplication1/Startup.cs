@@ -44,6 +44,8 @@ namespace WebApplication1
 
             app.UseHttpsRedirection();
             app.UseMvc();
+
+            // add test comment 1 
         }
     }
 }
